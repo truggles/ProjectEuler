@@ -1,0 +1,90 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      1977,         80]
+NotebookOptionsPosition[      1444,         55]
+NotebookOutlinePosition[      1798,         71]
+CellTagsIndexPosition[      1755,         68]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"a", "=", 
+  RowBox[{
+  "2", "*", "3", "*", "5", "*", "7", "*", "11", "*", "13", "*", "17", "*", 
+   "19"}]}]], "Input",
+ CellChangeTimes->{{3.6200009263880167`*^9, 3.620000973392886*^9}}],
+
+Cell[BoxData["9699690"], "Output",
+ CellChangeTimes->{{3.620000947026413*^9, 3.620000974234303*^9}}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"b", "=", 
+  RowBox[{"a", "*", "2"}]}]], "Input",
+ CellChangeTimes->{{3.620000978040045*^9, 3.620000990933497*^9}}],
+
+Cell[BoxData["19399380"], "Output",
+ CellChangeTimes->{3.620000991663393*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"c", "=", 
+  RowBox[{"b", "*", "2", "*", "2", "*", "3"}]}]], "Input",
+ CellChangeTimes->{{3.620001010208366*^9, 3.6200010513622513`*^9}}],
+
+Cell[BoxData["232792560"], "Output",
+ CellChangeTimes->{3.6200010523786497`*^9}]
+}, Open  ]]
+},
+WindowSize->{740, 756},
+WindowMargins->{{4, Automatic}, {Automatic, 4}},
+FrontEndVersion->"9.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (January 25, \
+2013)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 211, 5, 28, "Input"],
+Cell[793, 29, 100, 1, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[930, 35, 138, 3, 28, "Input"],
+Cell[1071, 40, 77, 1, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1185, 46, 160, 3, 28, "Input"],
+Cell[1348, 51, 80, 1, 86, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
