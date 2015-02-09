@@ -1,0 +1,3 @@
+
+### How to compile
+g++ -o my_executable my_cpp_code.cpp
