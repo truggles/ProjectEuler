@@ -1,3 +1,4 @@
 *.lprof
 line_profiler-1.0/*
 *.pyc
+*.exe
